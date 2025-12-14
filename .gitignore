@@ -1,11 +1,27 @@
-.htaccess
-css.php
-rpc/
-sites/site*/admin/
-sites/site*/private/
-sites/site*/public/admin/
-sites/site*/public/setup/
-sites/site*/public/theme/
-textpattern/
-HISTORY.txt
-README.txt
+# =========================
+# Quartus generated files
+# =========================
+db/
+incremental_db/
+output_files/
+simulation/
+
+*.sof
+*.pof
+*.rpt
+*.bak
+*.cdf
+*.qws
+
+# =========================
+# ModelSim
+# =========================
+modelsim.ini
+vsim.wlf
+work/
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
